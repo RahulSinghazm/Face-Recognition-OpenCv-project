@@ -11,13 +11,18 @@ FacFacial recognition is a biometric software application capable of uniquely id
 #### Steps to be followed
 
 -**Prepare training data:** In this step we will read training images for each person/subject along with their labels, detect faces from                               each image and assign each detected face an integer label of the person it belongs to.
+
 -**Train Face Recognizer:** In this step we will train OpenCV's LBPH face recognizer by feeding it the data we prepared in step 1.
+
 -**Testing:** In this step we will pass some test images to face recognizer and see if it predicts them correctly.
 
 
 ## Modules to be Used
+
 -**cv2:** OpenCV module for Python which we will use for face detection and face recognition.
+
 -**os:** We will use this Python module to read our training directories and file names.
+
 -**numpy:** We will use this module to convert Python lists to numpy arrays as OpenCV face recognizers accept numpy arrays.
 
 
