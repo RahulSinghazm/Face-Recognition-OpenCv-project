@@ -8,7 +8,7 @@ OpenCV (Open Source Computer Vision) is a popular computer vision library starte
 FacFacial recognition is a biometric software application capable of uniquely identifying or verifying a person by comparing and analyzing patterns based on the person's facial contours. Facial recognition is mostly used for security purposes, though there is increasing interest in other areas of use.ial recognition is a category of biometric software that maps an individual's facial features mathematically and stores the data as a faceprint.
 ![images](https://user-images.githubusercontent.com/29937202/42703916-9c0c4b8c-86eb-11e8-8a17-282f0e316f1e.jpg)
 
-#### Steps to be followed:
+### Steps to be followed:
 
 - **Prepare training data:** In this step we will read training images for each person/subject along with their labels, detect faces from                               each image and assign each detected face an integer label of the person it belongs to.
 
