@@ -19,8 +19,8 @@ while True:
     for(x,y,w,h) in faces:
         cv2.rectangle(img,(x,y),(x+w,y+h),(0,0,255),2)
         NO, conf = recog.predict(gray[y:y+h,x:x+w])
-        
-        if NO==1:
+
+         if NO==1:
             id="Santosh"
         elif NO==2:
             id="Chaman"
