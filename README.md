@@ -1,4 +1,4 @@
-# [Face Recognition OpenCv project](https://github.com/sam2702/Face-Recognition-OpenCv-project)
+# :star::star::star:[Face Recognition OpenCv project](https://github.com/sam2702/Face-Recognition-OpenCv-project)  :star::star::star:
 ## Introduction:
 ## [OpenCv](https://en.wikipedia.org/wiki/OpenCV)
 ![opencv-logo-white](https://user-images.githubusercontent.com/29937202/42703544-832ec5c8-86ea-11e8-91ca-68376e185d23.png)
